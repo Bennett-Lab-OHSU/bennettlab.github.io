@@ -25,7 +25,7 @@
     <meta name="twitter:description" content="{{ page_description }}">
     <meta name="twitter:image" content="{{ '/static/img/logo/og-card.jpg' | absolute_url }}">
 
-    <meta name="author" content="Fraser Lab, University of California, San Francisco">
+    <meta name="author" content="Bennett Lab, OHSU">
 
     <link rel="icon" href="/favicon.ico" sizes="any">
     <link rel="apple-touch-icon" href="/static/img/logo/apple-touch-icon.png">
@@ -34,35 +34,35 @@
     {
       "@context": "https://schema.org",
       "@type": "ResearchOrganization",
-      "name": "Fraser Lab",
+      "name": "Bennett Lab",
       "url": "{{ site.url }}",
       "description": "{{ site.description }}",
       "parentOrganization": {
         "@type": "CollegeOrUniversity",
-        "name": "University of California, San Francisco",
-        "url": "https://www.ucsf.edu"
+        "name": "Oregon Health & Science University",
+        "url": "https://www.ohsu.edu/"
       },
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "600 16th Street, Genentech Hall Room S472E",
-        "addressLocality": "San Francisco",
-        "addressRegion": "CA",
-        "postalCode": "94158",
+        "streetAddress": "3181 SW Sam Jackson Park Rd",
+        "addressLocality": "Portland",
+        "addressRegion": "OR",
+        "postalCode": "97239",
         "addressCountry": "US"
       },
       "employee": {
         "@type": "Person",
-        "name": "James S. Fraser",
-        "jobTitle": "Professor and Chair, Department of Bioengineering and Therapeutic Sciences",
-        "identifier": "https://orcid.org/0000-0002-5080-2859",
+        "name": "Neal K. Bennett",
+        "jobTitle": "Assistant Professor, Department of Molecular and Medical Genetics",
+        "identifier": "https://orcid.org/0000-0003-3120-4164",
         "affiliation": {
           "@type": "CollegeOrUniversity",
-          "name": "University of California, San Francisco"
+          "name": "Oregon Health & Science University"
         }
       }
     }
     </script>
-
+<!--
     <link rel="stylesheet" href="/static/css/bootstrap.min.css">
     <link rel="stylesheet" href="/static/css/ucsf-banner.css">
     {% if page.group == 'news' %}
@@ -71,6 +71,7 @@
 
     <link href="/static/css/syntax.css" rel="stylesheet">
     <link href="/static/css/custom.css" rel="stylesheet">
+    -->
   </head>
 
   <body>
@@ -81,6 +82,7 @@
          static/css/ucsf-banner.css) apart from https:// on the four links.
          The <nav> wrapper is ours: it gives the banner a named landmark
          without touching the template inside it. -->
+    <!--
     <nav aria-label="UCSF">
       <div id="ucsf-banner-nav">
         <div class="top-header-container row">
@@ -93,7 +95,7 @@
         </div>
       </div>
     </nav>
-
+-->
     <!-- Static navbar -->
     <nav class="navbar navbar-expand-lg navbar-dark" aria-label="Fraser Lab" style="background-color: #052049">
         <a class="navbar-brand" href="/">{{site.name}}</a>
