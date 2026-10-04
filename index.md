@@ -1,19 +1,20 @@
 ---
-title: Fraser Lab
+title: Bennett Lab
 layout: home
 group: home
 ---
 
-# Welcome to the Fraser&nbsp;Lab!
+# Welcome to the Bennett&nbsp;Lab!
 {: .display-4}
 <br>
-We are part of the [Department of Bioengineering and Therapeutic Sciences (BTS)](https://bts.ucsf.edu/), the [Macromolecular Structure Group (MSG)](https://msg.ucsf.edu/), and the [Quantitative Biosciences Institute (QBI)](https://qbi.ucsf.edu/).
+We are part of the [Department of Molecular and Medical Genetics](https://www.ohsu.edu/school-of-medicine/molecular-and-medical-genetics).
 {: .welcomefont}
 
+<!--
 ![Fraser lab logo](static/img/logo/jf_retreat_logo.svg){:style="max-width: 100%; height: auto;"}
-
-Research in the lab is focused on discovering the fundamental principles of macromolecular structure and dynamics.  We are interested in defining conformational states that are essential for function and understanding how conformational transitions couple to biological mechanisms.
+-->
+Research in the lab is focused on discovering the fundamental principles of how cells manage the flow of energy and the cycling of matter.  We are interested in defining the mechanisms by which cells regulate these flows, how they are disrupted in disease, and how they can be targetd to treat dysfunction.
 {: .welcomefont}
 
-We are located in Genentech Hall at the Mission Bay Campus of UCSF.
+We are located in Richard T. Jones Hall at the Marquam Hill Campus of OHSU.
 {: .welcomefont}
