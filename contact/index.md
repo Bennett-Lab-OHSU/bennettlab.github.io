@@ -1,12 +1,12 @@
 ---
-title: Contact the Fraser Lab
+title: Contact the Bennett Lab
 layout: default
 group: contact
 ---
 
-<p class="join-cta"><a href="/join">Interested in joining the Fraser lab?</a></p>
+<p class="join-cta"><a href="/join">Interested in joining the Bennett lab?</a></p>
 
-# Contact the Fraser Lab
+# Contact the Bennett Lab
 
 
 <div class="row">
@@ -14,44 +14,45 @@ group: contact
 <div class="col-md-4">
 
   <h2 class="h4">Lab Area </h2>
-  [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu)<br>
-  600 16th Street, Genentech Hall Room S476<br>
-  San Francisco, CA 94143<br>
-  tel: 415 502 3488
+  [Department of Molecular and Medical Genetics](https://www.ohsu.edu/school-of-medicine/molecular-and-medical-genetics)<br>
+  3181 SW Research Dr<br>
+  Portland, OR 97239<br>
 
 </div>
 
 <div class="col-md-4">
 
-  <h3 class="h4">James Fraser, Ph.D.</h3>
-  Professor<br>
-  [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu)<br>
-  [Quantitative Biosciences Institute (QBI)](https://qbi.ucsf.edu/)<br>
-  600 16th Street, Genentech Hall Room S472E<br>
-  San Francisco, CA 94143<br>
-  email: jfraser (at) fraserlab.com <br>
-  tel: 415 502 1863
+  <h3 class="h4">Neal Bennett, Ph.D.</h3>
+  Assistant Professor<br>
+  [Department of Molecular and Medical Genetics](https://www.ohsu.edu/school-of-medicine/molecular-and-medical-genetics)<br>
+  3181 SW Research Dr<br>
+  Portland, OR 97239<br>
+  email: bennettne (at) OHSU.edu <br>
 
 </div>
 
 <div class="col-md-4">
-
+<!--
   <h3 class="h4"> Rebecca Niznak</h3>
   Executive Business Adminstrator for James Fraser and<br>
   [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu)<br>
   email: rebecca.niznak2 (at) ucsf.edu<br>
   tel: <br>
-
+-->
 </div>
 
 </div>
 
+<!--
 ## Land Acknowledgement Statement
 
-The Fraser lab recognizes that [the University of California San Francisco sits on the unceded land of the Ramaytush Ohlone (pronounced Rah-mah-tush O-lone-ee) peoples, the original inhabitants of the San Francisco Peninsula](https://diversity.ucsf.edu/ucsf-land-acknowledgment). As settlers on this land, we want to recognize the historic, and ongoing, discrimination and violence inflicted upon Indigenous people in North America. Please read our [full statement](/land_ack).
+The Bennett lab recognizes that [the University of California San Francisco sits on the unceded land of the Ramaytush Ohlone (pronounced Rah-mah-tush O-lone-ee) peoples, the original inhabitants of the San Francisco Peninsula](https://diversity.ucsf.edu/ucsf-land-acknowledgment). As settlers on this land, we want to recognize the historic, and ongoing, discrimination and violence inflicted upon Indigenous people in North America. Please read our [full statement](/land_ack).
 
-## Directions to the Fraser Lab
-### The Mission Bay Campus can be reached:  
+-->
+
+<!--
+## Directions to the Bennett Lab
+### The Marquam Hill Campus can be reached:  
 * #### Public Transportation:
   {: .h5}
 
@@ -78,3 +79,4 @@ The Fraser lab recognizes that [the University of California San Francisco sits 
 6. Down the hall, you should find a break room. James's office is through the clear doors straight ahead. The Fraser lab is on the right.
 
 <img class="img-fluid" src="/static/img/map_to_mission_bay.png" alt="Map of Mission Bay">
+-->
