@@ -1,12 +1,5 @@
-- name: Scientific Community
-- name: Macrodomain
-- name: Drug Discovery
-- name: Protein Dynamics
-- name: Enzyme Mechanism
-- name: Structural Biology Methods
-- name: Computational Modeling Methods
-- name: Protein Design
-- name: Deep Mutational Scanning
-- name: Ribosome Structure
-- name: Chitinases
-- name: Collaborations
+- name: Lysosomal Storage Disease
+- name: Dementia
+- name: Cancer
+- name: Energy Metabolism
+
