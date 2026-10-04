@@ -39,10 +39,10 @@
             {% for item in images %}
             {% assign filename = item | split: '/' | last | split: '.' | first %}
             {% if filename contains 'current_members' %}
-              {% assign slidealt = 'Illustration of the current Fraser lab members, drawn by Jennifer Li' %}
+              {% assign slidealt = 'Illustration of the current Bennett lab members, drawn by Jennifer Li' %}
             {% else %}
               {% assign year = filename | slice: 0, 4 %}
-              {% assign slidealt = 'Illustration of the Fraser lab members in ' | append: year %}
+              {% assign slidealt = 'Illustration of the Bennett lab members in ' | append: year %}
             {% endif %}
             <li class="carousel__slide"><img src="{{ item }}" alt="{{ slidealt }}" loading="{% if forloop.first %}eager{% else %}lazy{% endif %}" decoding="async"></li>
             {% endfor %}
